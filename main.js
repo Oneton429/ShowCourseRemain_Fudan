@@ -7,6 +7,7 @@
 // @include      *://xk.fudan.edu.cn/course-selection/*
 // @icon         https://www.fudan.edu.cn/_upload/tpl/00/0e/14/template14/images/favicon.ico
 // @grant        none
+// @license      GNU
 // ==/UserScript==
 
 
